@@ -9,5 +9,6 @@ Hi, I’m Sam! I'm a 20 year old programmer studying software development at Rob
 - My favourite language is a tie between C# and PHP.
 - I'm currently learning Rust, mostly using it for creating desktop applications and tools.
 - I'm also doing light experiments with home-labbing on a Raspberry Pi.
+- I'm a massive space and rocket enthusiast.
 - I daily drive Linux and will speak with you about it extensively if brought up.
 - I've also built most of my desktop computers.
