@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hi, I’m Sam! I'm a 20 year old programmer studying software development at Robert Gordon Univerity, with ~4 years of game modding and web development history from my teenage years.
+Hi, I’m Sam! I'm a 21 year old programmer studying software development at Robert Gordon Univerity, with ~4 years of game modding and web development history from my teenage years.
 
 ## 🔥 Key Projects
 - [Sprint (Rust)](https://github.com/SamPertWasTaken/Sprint) a search tool and application launcher for Wayland and Linux.
